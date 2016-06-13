@@ -17,6 +17,7 @@
 ## (Comments)
 
 #Sample Feature Definition Template
+#adding some white space comment
 
 Feature: Login Action
 
