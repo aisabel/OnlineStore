@@ -18,7 +18,7 @@ public class seleniumTest {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
         //Launch the Online Store Website
-
+//change in selenium test
         driver.get("http://www.store.demoqa.com");
 
         // Find the element that's ID attribute is 'account'(My Account) 
